@@ -1,0 +1,12 @@
+.footer {
+  background-color: #13212C;
+  color: #6B6C6C;
+  padding: 60px;
+  text-align: center;
+}
+
+.social-media a {
+  color: #94B039;
+  font-size: 30px;
+  padding: 10px;
+}
